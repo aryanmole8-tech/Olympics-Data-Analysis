@@ -1,0 +1,22 @@
+
+# Olympics Data Analysis & Visualization Dashboard
+# Python 3.12 recommended
+
+# Data processing
+pandas>=3.0,<4
+numpy>=2.5,<3
+
+# Interactive dashboard
+streamlit>=1.66,<2
+plotly>=7.1,<8
+
+# Exploratory data analysis
+matplotlib>=3.11,<4
+seaborn>=0.13,<1
+
+# Testing
+pytest>=9,<10
+
+# Notebook environment
+jupyter>=1.1,<2
+ipykernel>=7,<8
