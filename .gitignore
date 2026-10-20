@@ -218,3 +218,16 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Olympics raw datasets - keep local
+/data/athlete_events.csv
+/data/noc_regions.csv
+
+# Local VS Code settings
+.vscode/
+
+# Notebook temporary files
+.ipynb_checkpoints/
+
+# Python test cache
+.pytest_cache/
