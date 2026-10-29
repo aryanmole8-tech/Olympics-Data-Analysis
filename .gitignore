@@ -231,3 +231,6 @@ __marimo__/
 
 # Python test cache
 .pytest_cache/
+
+# Additional Python virtual environments
+.venv*/
